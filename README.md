@@ -26,4 +26,4 @@ arDdnsCheck "test.org" "subdomain"
 
 Original: anrip
 
-Redit:[COAadmin](http://www.coaadmin.cn "COAadmin")
+Redit: [COAadmin](http://www.coaadmin.cn "COAadmin")
